@@ -42,6 +42,12 @@ object-assign
  * Released under the MIT License.
  */
 
+/*! Hammer.JS - v2.0.7 - 2016-04-22
+ * http://hammerjs.github.io/
+ *
+ * Copyright (c) 2016 Jorik Tangelder;
+ * Licensed under the MIT license */
+
 /*! axe v3.5.5
  * Copyright (c) 2020 Deque Systems, Inc.
  *
